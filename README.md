@@ -1,6 +1,6 @@
-# Content Genius — AI Reel & Viral Frame Generator
+# ViralFrame — AI Reel & Viral Frame Generator
 
-**Content Genius** is a Flask-based web application that turns raw videos into platform-ready short-form content. Upload a video, and the system automatically:
+**ViralFrame** is a Flask-based web application that turns raw videos into platform-ready short-form content. Upload a video, and the system automatically:
 
 1. Removes silence / dead air  
 2. Extracts keyframes  
